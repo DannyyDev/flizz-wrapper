@@ -1,0 +1,32 @@
+{
+  "name": "flizz",
+  "version": "0.1.8",
+  "description": "Wrapper oficial de Flizz",
+  "main": "index.js",
+  "dependencies": {
+    "arraybuffer-to-buffer": "^0.0.5",
+    "node-superfetch": "^0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyyDev/flizz-wrapper.git"
+  },
+  "keywords": [
+    "api",
+    "image",
+    "flizz",
+    "imagix",
+    "jimp",
+    "canvas"
+  ],
+  "author": "Daniel Benitez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DannyyDev/flizz-wrapper/issues"
+  },
+  "homepage": "https://github.com/DannyyDev/flizz-wrapper#readme"
+}
