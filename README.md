@@ -58,7 +58,7 @@ message.channel.send(valor);
 
 ### V0.1.8
 
-\+\- Actualizado: Licensia.
+\+\- Actualizado: Licencia.
 
 ### V0.1.7
 
